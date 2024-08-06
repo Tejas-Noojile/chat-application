@@ -45,6 +45,3 @@ PORT=your_port_number
     ```bash
         npm start
 ```
-## Screenshots
-
-https://github.com/Tejas-Noojile/chat-application/blob/main/images/Screenshot%202024-07-20%20020820.png?raw=true
