@@ -47,4 +47,11 @@ PORT=your_port_number
     ```
     ## Screenshots
 
-<img width="947" alt="Screenshot 2024-07-20 020503" src="https://github.com/user-attachments/assets/4c467f29-4251-4697-8b39-1a18b5a45a94">
+<img width="398" alt="Screenshot 2024-07-20 021313" src="https://github.com/user-attachments/assets/58e68c19-17fa-4629-ab45-b5fa7297a002">
+
+<img width="668" alt="Screenshot 2024-07-20 020632" src="https://github.com/user-attachments/assets/39d5e203-076d-4de2-8f7b-f564235b41d4">
+
+<img width="914" alt="Screenshot 2024-07-20 020943" src="https://github.com/user-attachments/assets/106537ab-c25a-4628-bad2-6e4c97748cfb">
+
+<img width="959" alt="Screenshot 2024-07-20 021057" src="https://github.com/user-attachments/assets/52c9bce3-a082-4361-8924-ffdf0f859c22">
+
