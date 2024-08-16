@@ -44,4 +44,7 @@ PORT=your_port_number
 4.  Start the development server:
     ```bash
         npm start
-```
+    ```
+    ## Screenshots
+
+<img width="947" alt="Screenshot 2024-07-20 020503" src="https://github.com/user-attachments/assets/4c467f29-4251-4697-8b39-1a18b5a45a94">
